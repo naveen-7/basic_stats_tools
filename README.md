@@ -1,2 +1,2 @@
 # basic_stats_tools
- basic tools to perform statistical tests
+ tools to perform basic statsistical tests
